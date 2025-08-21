@@ -16,7 +16,12 @@
 ---
 
 ### 🚀 About Me  
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&color=%2360E126&size=30&duration=3000&center=true&vCenter=true&lines=PROGRAMMER;FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER;DEVOPS+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR)](https://git.io/typing-svg)
+
+</div>
+
 
 🎓 I completed my **B.Tech in Computer Science & Engineering**.  
 🏆 Winner of multiple hackathons (2022, 2023) & **Runners-up at UNESCO India-Africa International Hackathon 2022**.  
