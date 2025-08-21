@@ -1,7 +1,7 @@
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Rajnish Puri</h1>
-<h3 align="center">Passionate Programmer | Web Developer | Software Enthusiast</h3>
+<h3 align="center">Software Developer | Full-Stack Enthusiast | DevOps Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -11,15 +11,18 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **JavaScript, DSA, and React Native**  
-- 💬 Ask me about **C/C++, Frontend Web Development, and DSA**  
-- 📫 Reach me at **rajnishpuri15@gmail.com**  
-- ⚡ Fun fact: **My First Love is my PC ❤️**  
-
 ---
 
 ### 🚀 About Me  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&color=%2360E126&size=30&duration=3000&center=true&vCenter=true&lines=PROGRAMMER;WEB+DEVELOPER;SOFTWARE+DEV;DSA+ENTHUSIAST;LEARNER;VIDEO+EDITOR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&color=%2360E126&size=30&duration=3000&center=true&vCenter=true&lines=PROGRAMMER;FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER;DEVOPS+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR)](https://git.io/typing-svg)
+
+🎓 I completed my **B.Tech in Computer Science & Engineering**.  
+🏆 Winner of multiple hackathons (2022, 2023) & **Runners-up at UNESCO India-Africa International Hackathon 2022**.  
+💻 Skilled in **JavaScript, TypeScript, Node.js, React, React Native, C, C++**.  
+⚙️ Currently exploring **DevOps tools & cloud technologies**.  
+💬 Ask me about **Web Development, Problem Solving, DSA & Software Engineering**.  
+📫 Reach me at **rajnishpuri15@gmail.com**.  
+⚡ Fun fact: **My First Love is my PC ❤️**  
 
 ---
 
@@ -35,7 +38,14 @@
 
 ### 🛠️ Tech Stack & Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,c,bootstrap,git,linux,unity,photoshop,gcp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,cpp,c,bootstrap,git,linux,docker,aws,unity,photoshop,gcp" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajnishpuri&theme=monokai&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -48,4 +58,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnishpuri&theme=monokai" alt="GitHub Streak" height="170"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnishpuri&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajnishpuri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
