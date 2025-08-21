@@ -1,7 +1,7 @@
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Rajnish Puri</h1>
-<h3 align="center">Software Developer | Full-Stack Enthusiast | DevOps Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer | ⚙️ DevOps Enthusiast | 🏆 Hackathon Winner</h3>
 
 <div align="center">
   <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding" width="70%" style="max-width:400px; border-radius:12px;" />
