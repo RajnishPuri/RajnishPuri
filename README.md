@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rajnish Puri</h1>
 <h3 align="center">Software Developer | Full-Stack Enthusiast | DevOps Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif">
+<div align="center">
+  <img src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding" width="70%" style="max-width:400px; border-radius:12px;" />
+</div>
 
 <p align="left"> 
   <a href="https://twitter.com/rajnishpuri15" target="blank">
